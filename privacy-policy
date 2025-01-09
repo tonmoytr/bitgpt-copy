@@ -1,0 +1,902 @@
+<!DOCTYPE html><!-- Last Published: Fri Dec 27 2024 23:00:03 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="bitgpt.network" data-wf-page="668cc7f47b0cd27d2c920a46" data-wf-site="663d3003f6d1e0033d9b22aa" lang="en"><head><meta charset="utf-8"/><title>BitGPT - Privacy Policy</title><meta content="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/66a2950e1c02e4296b80be86_og%20image-1%20(1).png" property="og:image"/><meta content="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/66a2950e1c02e4296b80be86_og%20image-1%20(1).png" property="twitter:image"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/css/bitgpt-v-1.webflow.4853f7f74.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/66629de905da38efa79788cd_logo%20-%20dark%20(1).png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/66629deb62b0868f0c1afa9e_logo%20-%20dark%20(2).png" rel="apple-touch-icon"/><script type="module" defer src="https://bit-gpt-website.vercel.app/legal/index.js"></script>
+<!-- [Attributes by Finsweet] Table of Contents -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-toc@1/toc.js"></script>
+
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .hero-heading, .mobile_heading {
+    perspective: 15px;
+  }
+  .heading-span-line {
+    opacity: 0;
+    transform: translateY(50%) rotateX(2deg);
+  }
+  .hero_content-wrap p, .section-heading_wrapper .eyebrow, .section-heading_wrapper h2, .section-heading_wrapper p,
+  .cta_card h2, .cta_card p, .feature_content h3, .feature_content p, .section_mobile .glowing-wrapper {
+    opacity: 0;
+    transform: translateY(50%);
+  }
+  .card-row_card:not(.is-wide), .feature_image-wrapper {
+    opacity: 0;
+    transform: translateY(5%)
+  }
+  .form {
+    width: 29%;
+    opacity: 0;
+  }
+
+  .ev-user, .compute-line, .hero_logo, .line-pulse, .mobile_image-mockup { 
+    opacity: 0;
+  }
+  .agent-a_msg-wrap, .chat-a_chat-outer-wrap {
+    height: 0;
+    opacity: 0;
+  }
+</style></head><body><div class="page-wrapper"><div id="contact-modal" class="modal"><div class="w-embed"><style>
+  .contact_form-wrap::-webkit-scrollbar {
+    width: 4px;
+    background-color: transparent;
+  }
+  .contact_form-wrap::-webkit-scrollbar-thumb {
+    background: rgba(250, 243, 239, 0.3);
+  }
+
+  .modal::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(18, 20, 23, .6);
+    backdrop-filter: blur(10px);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  .modal.is-active::before {
+    opacity: 1;
+  }
+  .modal.is-active .contact_wrapper {
+    opacity: 1;
+  }
+
+  @media screen and (hover:hover) {
+    .modal_close-btn:hover {
+      color: #7e7e7e;
+    }
+  }
+</style></div><div class="modal_inner-wrap is-contact"><div class="contact_wrapper"><a href="#" class="modal_close-btn w-inline-block"><div class="icon-embed-xsmall w-embed"><svg display="block" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.5 16H16.1403C15.8115 16 15.5037 15.8384 15.3171 15.5677L11.823 10.5007C11.5849 10.1554 11.5875 9.69828 11.8296 9.3558L15.3163 4.42281C15.5037 4.15765 15.8082 4 16.1329 4H17.5" stroke="currentcolor" stroke-width="1.5"/>
+<path d="M3.5 16H4.85971C5.1885 16 5.49629 15.8384 5.68295 15.5677L9.17703 10.5007C9.41511 10.1554 9.41246 9.69828 9.17039 9.3558L5.68369 4.42281C5.49627 4.15765 5.19178 4 4.86708 4H3.5" stroke="currentcolor" stroke-width="1.5"/>
+</svg></div></a><div class="contact_wrapper-content"><div class="contact_wrapper-content-inner"><h2 class="contact_heading">Get Early Access to BitGPT</h2><p class="text-size-small text-color-tertiary">Join our exclusive waitlist by entering your email below and be among the first to experience the magic.</p></div><div class="contact_form-wrap w-form"><form id="wf-form-Contact-1-Form" name="wf-form-Contact-1-Form" data-name="Contact 1 Form" action="https://mail.us13.list-manage.com/subscribe/post?u=a907e40533824b1f24fc102f8&amp;id=aff5fa1f7e&amp;f_id=004f57e1f0" method="post" class="contact_form" data-wf-page-id="668cc7f47b0cd27d2c920a46" data-wf-element-id="a1ab4a0d-4bb1-0f24-4150-cf5a706ceeab"><div class="input-group"><label for="EMAIL-4" class="input-label">Work Email</label><input class="input is-square w-input" maxlength="256" name="EMAIL" data-name="EMAIL" placeholder="Email address" type="email" id="EMAIL-4" required=""/></div><input type="submit" data-wait="Please wait..." id="w-node-a1ab4a0d-4bb1-0f24-4150-cf5a706ceeb0-706cee9e" class="btn is-submit is-large w-button" value="Join VIP Waitlist"/></form><div class="success-message w-form-done"><div class="sucess-message_inner"><div class="success-text">Thank you! Your submission has been received!</div></div></div><div class="error-message w-form-fail"><div class="error-text">Oops! Something went wrong while submitting the form.</div></div></div></div><div class="contact_wrapper-media"><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/6698d756097134be5682a682_Frame%202147223960.webp" loading="lazy" sizes="(max-width: 767px) 81vw, (max-width: 991px) 67vw, (max-width: 2110px) 65vw, 1372px" srcset="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/6698d756097134be5682a682_Frame%202147223960-p-500.webp 500w, https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/6698d756097134be5682a682_Frame%202147223960-p-800.webp 800w, https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/6698d756097134be5682a682_Frame%202147223960-p-1080.webp 1080w, https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/6698d756097134be5682a682_Frame%202147223960.webp 1372w" alt="" class="contact_wrapper-media-img"/></div></div></div></div><div class="global-styles w-embed"><style>
+ /* html { font-size: calc(0.625rem + 0.41666666666666663vw); }
+  @media screen and (max-width:1920px) { html { font-size: calc(0.625rem + 0.41666666666666674vw); } }
+  @media screen and (max-width:1440px) { html { font-size: calc(0.8126951092611863rem + 0.20811654526534862vw); } }
+  @media screen and (max-width:479px) { html { font-size: calc(0.7494769874476988rem + 0.8368200836820083vw); } }*/
+  
+  html { font-size: calc(0.625rem + 0.41666666666666663vw); }
+  @media screen and (max-width:1920px) { html { font-size: calc(0.625rem + 0.41666666666666674vw); } }
+  @media screen and (max-width:1440px) { html { font-size: calc(0.8126951092611863rem + 0.20811654526534862vw); } }
+  @media screen and (max-width:479px) { html { font-size: calc(0.7321029082774049rem + 0.894854586129754vw); } }
+  @media screen and (max-width:32px) { html { font-size: calc(0.6209677419354839rem + 6.451612903225807vw); } }
+
+  .section-hero-bg_img svg circle, .section-cta-bg_img svg circle {
+    r: 3;
+  }
+
+  .btn, .button {
+    box-shadow: 0 2px 10px rgba(255, 255, 255, 0);
+  }
+
+  @media screen and (hover:hover) {
+    .btn:hover, .button:hover {
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    }
+    .navbar_link:hover, .footer_link:hover, .footer_social-link:hover, .footer_legal-link:hover {
+      color: #fff;
+    }
+    .btn.is-nav:hover {
+      background: rgba(255, 255, 255, 0.05);
+    }
+  }
+
+  .hero_content-wrap p {
+    text-wrap: balance;
+  }
+ /* .cta_card {
+    clip-path: polygon(0 40.00px,40.00px 0,calc(100% - 40.00px) 0,100% 40.00px,100% calc(100% - 40.00px),calc(100% - 40.00px) 100%,40.00px 100%,0 calc(100% - 40.00px));
+  }
+  .cta_card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.1);
+    clip-path: polygon(0 40.00px,40.00px 0,calc(100% - 40.00px) 0,100% 40.00px,100% calc(100% - 40.00px),calc(100% - 40.00px) 100%,40.00px 100%,0 calc(100% - 40.00px),0 40.00px,1px  calc(40.00px + 1px),1px calc(100% - 40.00px - 1px),calc(40.00px + 1px) calc(100% - 1px),calc(100% - 40.00px - 1px) calc(100% - 1px),calc(100% - 1px) calc(100% - 40.00px - 1px),calc(100% - 1px) calc(40.00px + 1px),calc(100% - 40.00px - 1px) 1px,calc(40.00px + 1px) 1px,1px calc(40.00px + 1px));
+  }
+  @media screen and (max-width: 991px) {
+    .cta_card {
+      clip-path: polygon(0 20.00px,20.00px 0,calc(100% - 20.00px) 0,100% 20.00px,100% calc(100% - 20.00px),calc(100% - 20.00px) 100%,20.00px 100%,0 calc(100% - 20.00px));
+    }
+    .cta_card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(255, 255, 255, 0.1);
+      clip-path: polygon(0 20.00px,20.00px 0,calc(100% - 20.00px) 0,100% 20.00px,100% calc(100% - 20.00px),calc(100% - 20.00px) 100%,20.00px 100%,0 calc(100% - 20.00px),0 20.00px,1px  calc(20.00px + 1px),1px calc(100% - 20.00px - 1px),calc(20.00px + 1px) calc(100% - 1px),calc(100% - 20.00px - 1px) calc(100% - 1px),calc(100% - 1px) calc(100% - 20.00px - 1px),calc(100% - 1px) calc(20.00px + 1px),calc(100% - 20.00px - 1px) 1px,calc(20.00px + 1px) 1px,1px calc(20.00px + 1px));
+    }
+  }
+*/
+  .glowing-wrapper-button:after {
+    background: radial-gradient(85% 120% at 50% 120%, rgba(255, 255, 255, .24) 0%, rgba(255, 255, 255, 0) 100%);
+    border-radius: 999px;
+    content: "";
+    height: calc(100% + 4px);
+    left: -2px;
+    opacity: 0;
+    position: absolute;
+    top: -2px;
+    transition: 1s all;
+    width: calc(100% + 4px)
+  }
+
+  .glowing-wrapper-button:hover:after {
+    opacity: .7
+  }
+
+
+  .glowing-wrapper-active .glowing-wrapper-animations,
+  .glowing-wrapper-active .glowing-wrapper_borders-mask {
+    opacity: 1
+  }
+
+  .glowing-wrapper_animations:before,
+  .glowing-wrapper_borders:before {
+    content: "";
+    float: left;
+    padding-top: 100%
+  }
+
+  .glowing-wrapper_animations:after,
+  .glowing-wrapper_borders:after {
+    clear: both;
+    content: "";
+    display: block
+  }
+
+  .glowing-wrapper_animations {
+    pointer-events: none;
+  }
+
+  .glowing-wrapper_animations * {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%
+  }
+
+  .glowing-wrapper_borders,
+  .glowing-wrapper-glow,
+  .glowing-wrapper-mask {
+    animation: borderTurn 2.5s infinite linear;
+    background-image: conic-gradient(from 0 at 50% 50%, rgba(255, 255, 255, .5) 0deg, rgba(255, 255, 255, 0) 60deg, rgba(255, 255, 255, 0) 310deg, rgba(255, 255, 255, .5) 360deg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+  }
+
+  .glowing-wrapper-mask-wrapper {
+    -webkit-mask: url("data:image/svg+xml,url('data:image/svg+xml,%253Csvg width='28' height='24' viewBox='0 0 28 24' fill='none' xmlns='http://www.w3.org/2000/svg'%253E%253Crect width='28' height='24' fill='black'/%253E%253C/svg%253E%250A');");
+    mask: url("data:image/svg+xml,url('data:image/svg+xml,%253Csvg width='28' height='24' viewBox='0 0 28 24' fill='none' xmlns='http://www.w3.org/2000/svg'%253E%253Crect width='28' height='24' fill='black'/%253E%253C/svg%253E%250A');");
+    mask-repeat: repeat;
+    -webkit-mask-size: auto;
+    mask-size: auto
+  }
+
+  .glowing-wrapper_borders {
+    animation-name: borderTurnWithTranslate
+  }
+
+  .glowing-wrapper_borders-mask {
+    content: "";
+    inset: 0;
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask-composite: xor;
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+
+  @keyframes borderTurn {
+    0% {
+      transform: rotate(0)
+    }
+
+    to {
+      transform: rotate(360deg)
+    }
+  }
+
+  @keyframes borderTurnWithTranslate {
+    0% {
+      transform: translate(-50%, -50%) rotate(0)
+    }
+
+    to {
+      transform: translate(-50%, -50%) rotate(360deg)
+    }
+  }
+
+  /* Make text look crisper and more legible in all browsers */
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  body::-webkit-scrollbar {
+    width: 5px;
+    background-color: transparent;
+  }
+  body::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+  }
+
+  /* Focus state style for keyboard navigation for the focusable elements */
+  *[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+    outline: 0.125rem solid #4d65ff;
+    outline-offset: 0.125rem;
+  }
+
+  /* Set color style to inherit */
+  .inherit-color * {
+    color: inherit;
+  }
+
+  /* Get rid of top margin on first element in any rich text element */
+  .w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+    margin-top: 0 !important;
+  }
+
+  /* Get rid of bottom margin on last element in any rich text element */
+  .w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+    margin-bottom: 0 !important;
+  }
+
+
+  /* Make sure containers never lose their center alignment */
+  .container-medium,.container-small, .container-large {
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+
+  /* 
+  Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+  Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+  Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+  */
+  /*
+  a,
+  .w-input,
+  .w-select,
+  .w-tab-link,
+  .w-nav-link,
+  .w-dropdown-btn,
+  .w-dropdown-toggle,
+  .w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+  }
+  */
+
+  /* Apply "..." after 3 lines of text */
+  .text-style-3lines {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+
+  /* Apply "..." after 2 lines of text */
+  .text-style-2lines {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  /* Adds inline flex display */
+  .display-inlineflex {
+    display: inline-flex;
+  }
+
+  /* These classes are never overwritten */
+  .hide {
+    display: none !important;
+  }
+
+  @media screen and (max-width: 991px) {
+    .hide, .hide-tablet {
+      display: none !important;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+  }
+  @media screen and (max-width: 479px) {
+    .hide-mobile{
+      display: none !important;
+    }
+  }
+
+  .margin-0 {
+    margin: 0rem !important;
+  }
+
+  .padding-0 {
+    padding: 0rem !important;
+  }
+
+  .spacing-clean {
+    padding: 0rem !important;
+    margin: 0rem !important;
+  }
+
+  .margin-top {
+    margin-right: 0rem !important;
+    margin-bottom: 0rem !important;
+    margin-left: 0rem !important;
+  }
+
+  .padding-top {
+    padding-right: 0rem !important;
+    padding-bottom: 0rem !important;
+    padding-left: 0rem !important;
+  }
+
+  .margin-right {
+    margin-top: 0rem !important;
+    margin-bottom: 0rem !important;
+    margin-left: 0rem !important;
+  }
+
+  .padding-right {
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+    padding-left: 0rem !important;
+  }
+
+  .margin-bottom {
+    margin-top: 0rem !important;
+    margin-right: 0rem !important;
+    margin-left: 0rem !important;
+  }
+
+  .padding-bottom {
+    padding-top: 0rem !important;
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+  }
+
+  .margin-left {
+    margin-top: 0rem !important;
+    margin-right: 0rem !important;
+    margin-bottom: 0rem !important;
+  }
+
+  .padding-left {
+    padding-top: 0rem !important;
+    padding-right: 0rem !important;
+    padding-bottom: 0rem !important;
+  }
+
+  .margin-horizontal {
+    margin-top: 0rem !important;
+    margin-bottom: 0rem !important;
+  }
+
+  .padding-horizontal {
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+  }
+
+  .margin-vertical {
+    margin-right: 0rem !important;
+    margin-left: 0rem !important;
+  }
+
+  .padding-vertical {
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+  }
+
+</style></div><div class="w-embed"><style>
+
+  @media screen and (hover:hover) {
+    .privacy-header_back-btn:hover {
+      color: #fff;
+    }
+  }
+	.toc_link .toc_link-active-label {
+  	width: 0;
+    opacity: 0;
+  }
+  .toc_link.w--current .toc_link-active-label {
+  	width: 1rem;
+    opacity: 1;
+  }
+</style></div><div data-animation="default" class="navbar_component w-nav" data-easing2="ease" fs-scrolldisable-element="smart-nav" data-easing="ease" data-collapse="medium" data-w-id="739c2bc8-f7c8-37dc-77df-9d2158a13395" role="banner" data-duration="400"><div class="navbar_divider"></div><div class="navbar_container"><a href="/" class="navbar_logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/664daa2a090a517f38be5475_hero-logo%20(2).webp" loading="lazy" alt="BitGPT logo" class="navbar_logo"/></a><nav role="navigation" id="w-node-_739c2bc8-f7c8-37dc-77df-9d2158a1339a-58a13395" class="navbar_menu w-nav-menu"><a href="/network" class="navbar_link w-inline-block"><div>Network</div><div class="icon-1x1-small is-nav-link w-embed"><svg display="block" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.49006 13.7628L7.21165 12.4986L11.6506 8.05966H0.5V6.21307H11.6506L7.21165 1.78125L8.49006 0.509943L15.1165 7.13636L8.49006 13.7628Z" fill="currentcolor" fill-opacity="0.52"/>
+</svg></div></a><a href="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/676f26096883f1e67f9a93a3_bitGPT%20Whitepaper.pdf" target="_blank" class="navbar_link hide-desktop w-inline-block"><div>Whitepaper</div><div class="icon-1x1-small is-nav-link w-embed"><svg display="block" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.49006 13.7628L7.21165 12.4986L11.6506 8.05966H0.5V6.21307H11.6506L7.21165 1.78125L8.49006 0.509943L15.1165 7.13636L8.49006 13.7628Z" fill="currentcolor" fill-opacity="0.52"/>
+</svg></div></a><a href="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/676f26156c4f59b9bfdf74ac_bitGPT%20MiCA%20White%20Paper.pdf" target="_blank" class="navbar_link hide-desktop w-inline-block"><div>MICAR Whitepaper</div><div class="icon-1x1-small is-nav-link w-embed"><svg display="block" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.49006 13.7628L7.21165 12.4986L11.6506 8.05966H0.5V6.21307H11.6506L7.21165 1.78125L8.49006 0.509943L15.1165 7.13636L8.49006 13.7628Z" fill="currentcolor" fill-opacity="0.52"/>
+</svg></div></a><div data-hover="true" data-delay="300" data-w-id="9948d0ab-2777-2d31-3e00-a8e34d5481cd" class="navbar_dropdpwn hide-tablet w-dropdown"><div class="navbar_link is-dropdown w-dropdown-toggle"><div>Whitepaper</div><div class="navbar_link_icon-wrap"><div data-w-id="91c204a3-eb8d-0899-7b74-518b5317fa14" class="navbar_link_icon w-embed"><svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.50018 12.5L10.5002 7.5L15.5002 12.5" stroke="white" stroke-opacity="0.52" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div data-w-id="23387bc2-26bc-711d-bb01-4f607bb49786" class="navbar_link_icon is-absolute w-embed"><svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.5001 7.5L10.5001 12.5L5.50012 7.5" stroke="white" stroke-opacity="0.52" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div></div></div><nav class="navbar_dropdown_list w-dropdown-list"><a href="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/676f26096883f1e67f9a93a3_bitGPT%20Whitepaper.pdf" target="_blank" class="navbar_link is-dropdown-item w-inline-block"><div class="w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 2.26953V6.40007C14 6.96012 14 7.24015 14.109 7.45406C14.2049 7.64222 14.3578 7.7952 14.546 7.89108C14.7599 8.00007 15.0399 8.00007 15.6 8.00007H19.7305M20 9.98822V17.2C20 18.8802 20 19.7202 19.673 20.362C19.3854 20.9265 18.9265 21.3854 18.362 21.673C17.7202 22 16.8802 22 15.2 22H8.8C7.11984 22 6.27976 22 5.63803 21.673C5.07354 21.3854 4.6146 20.9265 4.32698 20.362C4 19.7202 4 18.8802 4 17.2V6.8C4 5.11984 4 4.27976 4.32698 3.63803C4.6146 3.07354 5.07354 2.6146 5.63803 2.32698C6.27976 2 7.11984 2 8.8 2H12.0118C12.7455 2 13.1124 2 13.4577 2.08289C13.7638 2.15638 14.0564 2.27759 14.3249 2.44208C14.6276 2.6276 14.887 2.88703 15.4059 3.40589L18.5941 6.59411C19.113 7.11297 19.3724 7.3724 19.5579 7.67515C19.7224 7.94356 19.8436 8.2362 19.9171 8.5423C20 8.88757 20 9.25445 20 9.98822Z" stroke="currentColor" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div>Whitepaper</div></a><a href="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/676f26156c4f59b9bfdf74ac_bitGPT%20MiCA%20White%20Paper.pdf" target="_blank" class="navbar_link is-dropdown-item w-inline-block"><div class="w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 2.26953V6.40007C14 6.96012 14 7.24015 14.109 7.45406C14.2049 7.64222 14.3578 7.7952 14.546 7.89108C14.7599 8.00007 15.0399 8.00007 15.6 8.00007H19.7305M20 9.98822V17.2C20 18.8802 20 19.7202 19.673 20.362C19.3854 20.9265 18.9265 21.3854 18.362 21.673C17.7202 22 16.8802 22 15.2 22H8.8C7.11984 22 6.27976 22 5.63803 21.673C5.07354 21.3854 4.6146 20.9265 4.32698 20.362C4 19.7202 4 18.8802 4 17.2V6.8C4 5.11984 4 4.27976 4.32698 3.63803C4.6146 3.07354 5.07354 2.6146 5.63803 2.32698C6.27976 2 7.11984 2 8.8 2H12.0118C12.7455 2 13.1124 2 13.4577 2.08289C13.7638 2.15638 14.0564 2.27759 14.3249 2.44208C14.6276 2.6276 14.887 2.88703 15.4059 3.40589L18.5941 6.59411C19.113 7.11297 19.3724 7.3724 19.5579 7.67515C19.7224 7.94356 19.8436 8.2362 19.9171 8.5423C20 8.88757 20 9.25445 20 9.98822Z" stroke="currentColor" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div class="navbar_dropdown_text">MICAR Whitepaper</div></a></nav></div></nav><div id="w-node-_739c2bc8-f7c8-37dc-77df-9d2158a133a7-58a13395" class="navbar_button-wrapper"><div data-contact-btn="" class="glowing-wrapper glowing-wrapper-active"><div class="glowing-wrapper-animations"><div class="glowing-wrapper-glow"></div><div class="glowing-wrapper-mask-wrapper"><div class="glowing-wrapper-mask"></div></div></div><div class="glowing-wrapper_borders-mask"><div class="glowing-wrapper_borders"></div></div><a href="https://discord.com/channels/1298061949082533928" target="_blank" class="btn is-nav w-inline-block"><div class="button-text">Join our Discord</div><div class="button-icon w-embed"><svg width="1.25rem" height="1.25rem" style="margin-top: 0.125rem" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.9308 3.4629C15.6561 2.87799 14.2892 2.44707 12.8599 2.20025C12.8339 2.19549 12.8079 2.20739 12.7945 2.2312C12.6187 2.54388 12.4239 2.9518 12.2876 3.27242C10.7503 3.04228 9.22099 3.04228 7.71527 3.27242C7.57887 2.94467 7.37707 2.54388 7.20048 2.2312C7.18707 2.20819 7.16107 2.19629 7.13504 2.20025C5.70659 2.44628 4.33963 2.87721 3.06411 3.4629C3.05307 3.46766 3.04361 3.4756 3.03732 3.48591C0.444493 7.35954 -0.265792 11.138 0.0826501 14.8695C0.0842267 14.8878 0.0944749 14.9053 0.108665 14.9164C1.81934 16.1726 3.47642 16.9353 5.10273 17.4408C5.12876 17.4488 5.15634 17.4393 5.1729 17.4178C5.55761 16.8925 5.90054 16.3385 6.19456 15.756C6.21192 15.7219 6.19535 15.6814 6.15989 15.6679C5.61594 15.4616 5.098 15.21 4.59977 14.9243C4.56037 14.9013 4.55721 14.8449 4.59347 14.8179C4.69831 14.7394 4.80318 14.6576 4.9033 14.5751C4.92141 14.56 4.94665 14.5568 4.96794 14.5664C8.24107 16.0608 11.7846 16.0608 15.0191 14.5664C15.0404 14.5561 15.0657 14.5592 15.0846 14.5743C15.1847 14.6568 15.2895 14.7394 15.3952 14.8179C15.4314 14.8449 15.4291 14.9013 15.3897 14.9243C14.8914 15.2155 14.3735 15.4616 13.8288 15.6671C13.7933 15.6806 13.7775 15.7219 13.7949 15.756C14.0952 16.3377 14.4381 16.8917 14.8157 17.417C14.8315 17.4393 14.8599 17.4488 14.8859 17.4408C16.5201 16.9353 18.1772 16.1726 19.8879 14.9164C19.9028 14.9053 19.9123 14.8886 19.9139 14.8703C20.3309 10.5562 19.2154 6.80878 16.9568 3.4867C16.9513 3.4756 16.9419 3.46766 16.9308 3.4629ZM6.68335 12.5974C5.69792 12.5974 4.88594 11.6927 4.88594 10.5816C4.88594 9.47056 5.68217 8.56585 6.68335 8.56585C7.69239 8.56585 8.49651 9.4785 8.48073 10.5816C8.48073 11.6927 7.68451 12.5974 6.68335 12.5974ZM13.329 12.5974C12.3435 12.5974 11.5316 11.6927 11.5316 10.5816C11.5316 9.47056 12.3278 8.56585 13.329 8.56585C14.338 8.56585 15.1421 9.4785 15.1264 10.5816C15.1264 11.6927 14.338 12.5974 13.329 12.5974Z" fill="white"/>
+</svg></div></a></div><div class="navbar_menu-button w-nav-button"><div class="menu-icon2"><div class="menu-icon_line-top"></div><div class="menu-icon_line-middle"><div class="menu-icon_line-middle-inner"></div></div><div class="menu-icon_line-bottom"></div></div></div></div></div></div><main class="main-wrapper"><section class="section-privacy-header"><div class="padding-global"><div class="container-large"><div class="padding-section-medium"><a href="/" class="privacy-header_back-btn">Go back</a><div class="privacy-header_wrap"><h1 class="h1-privacy">Privacy<br/>Policy</h1><div class="privacy-header_date"><div><span class="text-color-tertiary">Last updated:</span> June 25,  2024</div><div><span class="text-color-tertiary">Published:</span> December 12, 2023</div></div></div></div></div></div></section><section class="section_content28"><div class="padding-global"><div class="container-large"><div class="padding-section-pre-footer"><div class="content28_component"><div id="w-node-_8cd039ef-9ec3-4955-fea1-0cf4d8f80491-2c920a46" class="content28_content-wrap"><div fs-toc-hideurlhash="true" fs-toc-element="contents" fs-toc-offsettop="4.5rem" fs-toc-offsetbottom="4rem" class="privacy-rich-text w-richtext"><h2>Introduction</h2><p>This Privacy Policy explains how BitGPT (“Company,” “we,” “us,” and “our“) uses cookies and similar technologies to recognize you when you visit our website at https://bitgpt.com (“Website“). It details what these technologies are, why we use them, and your rights to control our use of them.In some cases, we may use cookies to collect personal information, or that becomes personal information if combined with other information.</p><p>‍</p><h2>What are cookies?</h2><p>Cookies are small data files placed on your computer or mobile device when you visit a website. They are widely used by website owners to make their websites work or work more efficiently and to provide reporting information.Cookies set by the website owner (in this case, BitGPT) are called “first-party cookies.” Cookies set by parties other than the website owner are called “third-party cookies.” Third-party cookies enable third-party features or functionalities to be provided on or through the website (e.g., advertising, interactive content, and analytics). The parties that set these third-party cookies can recognize your computer both when it visits the website in question and when it visits certain other websites.</p><p>‍</p><h2>Why do we use cookies?</h2><p>We use first- and third-party cookies for several reasons. Some cookies are required for technical reasons for our Website to operate, and we refer to these as “essential” or “strictly necessary” cookies. Other cookies enable us to track and target the interests of our users to enhance their experience on our Online Properties. Third parties serve cookies through our Website for advertising, analytics, and other purposes, which are described in more detail below.</p><p>‍</p><h2>How can I control cookies?</h2><p>You have the right to decide whether to accept or reject cookies. You can exercise your cookie rights by setting your preferences in the Cookie Consent Manager. The Cookie Consent Manager allows you to select which categories of cookies you accept or reject. Essential cookies cannot be rejected as they are strictly necessary to provide you with services.The Cookie Consent Manager can be found in the notification banner and on our website. If you choose to reject cookies, you may still use our website, though your access to some functionality and areas of our website may be restricted. You may also set or amend your web browser controls to accept or refuse cookies.</p></div></div><div id="w-node-_8cd039ef-9ec3-4955-fea1-0cf4d8f804a9-2c920a46" class="content28_sidebar"><div class="margin-top margin-xsmall"><div class="content28_link-content"><div class="content28_link-wrapper is-h2"><a href="#" class="toc_link w-inline-block"><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/668d0c6367e32d8d584bcf3c_Frame%202147224080.svg" loading="lazy" alt="" class="toc_link-active-label"/><div fs-toc-element="link">Example H2</div></a><div fs-toc-element="ix-trigger" id="w-node-_9f536dd8-4908-8a99-83c0-52fb799f1add-2c920a46" class="fs-toc_h-trigger"></div><div class="fs-toc_link-wrapper is-h3"><a href="#" class="toc_link is-h3 w-inline-block"><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/668d0c6367e32d8d584bcf3c_Frame%202147224080.svg" loading="lazy" alt="" class="toc_link-active-label"/><div fs-toc-element="link">Example H3</div></a><div class="fs-toc_link-wrapper is-h4"><a href="#" class="toc_link is-h4 w-inline-block"><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/668d0c6367e32d8d584bcf3c_Frame%202147224080.svg" loading="lazy" alt="" class="toc_link-active-label"/><div fs-toc-element="link">Example H4</div></a><div class="fs-toc_link-wrapper is-h5"><a href="#" class="toc_link is-h5 w-inline-block"><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/668d0c6367e32d8d584bcf3c_Frame%202147224080.svg" loading="lazy" alt="" class="toc_link-active-label"/><div fs-toc-element="link">Example H5</div></a><div class="fs-toc_link-wrapper is-h6"><a href="#" class="toc_link is-h6 w-inline-block"><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/668d0c6367e32d8d584bcf3c_Frame%202147224080.svg" loading="lazy" alt="" class="toc_link-active-label"/><div fs-toc-element="link">Example H6</div></a></div></div></div></div></div></div></div></div></div></div></div></div></section></main><footer class="footer_component"><div class="container-large"><div class="cta_card"><div class="cta_background-svg-wrapper"><div class="section-cta-bg_img w-embed"><svg display="block" viewBox="0 0 1442 1446" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M541.5 400L558.5 417H747.5L766 398.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M541.5 424L558.5 441H747.5L766 422.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1230 6V56.5L1254.5 81H1358L1388.5 50.5V6" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1242 6V48.42L1262.71 69H1350.21L1376 43.38V6" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1254 6V39.6667L1270.85 56H1342.03L1363 35.6667V6" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 313H279.189L332 259.35V185" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 329H284.109L345 267.489V140" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 342H294.801L358 275.867V220" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M0 358H298.833L374 283.382V188" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 399.5H94L141.5 447H163.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1429 6V177.5H1322.5L1268.5 123.5H1192" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1416 6V166H1329.34L1272.3 110.621H1162" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1404 6V153H1334.44L1279.09 98.1205H1194" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M988.5 4V285H787.5L711.5 361H580.5L516 296.5H479" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1017.5 6.5V315H803.5L715.5 394H576.5L516 332.5H479" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1005 0L1004 301H795.81L711.733 377L577.611 376L513.053 311.5H455" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M975.5 6V270.5H782.5L706.5 346.5H586L522 282.5H447" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1099.5 243L1090 252.5V296.5H1057V343" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M663 669.5H493.5L457.5 633.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M330 6V83H74" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M344 6V96H99" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M356 6V108H60" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M369 6V121H98" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M318 6V70H99" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M420.397 6V87.0174H606.805" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M410.204 6V100.696H588.602" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M401.466 6V113.322H617" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M391.998 6V127H589.328" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M429.136 6V73.3391H588.602" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M439 6V62H551" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M22.5 38H104.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M189 6V31.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M203 6V38" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M217 6V26" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M231 6V46" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M507 27H585L612.5 54.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M571.5 147L554.5 164V207.5L570 223" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1237 236.5H1261.5L1277.5 220.5V157.5L1261 141H1237.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1237 220H1251.52L1261 209.613V168.712L1251.22 158H1237.3" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M592.5 147L575.5 164V207.5L591 223" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M647 6V202.5L699.5 255H867L954.5 167.5V6" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M689 6V163.042L727.756 205H851.407L916 135.07V6" stroke="#1A1A1A" stroke-width="1.6"/>
+  <path d="M679 6V173.301L721.171 218H855.715L926 143.502V6" stroke="#1A1A1A" stroke-width="1.7"/>
+  <path d="M658 6V193.03L707 243H863.333L945 159.717V6" stroke="#1A1A1A" stroke-width="1.9"/>
+  <path d="M669 6V182.771L714.585 230H860.024L936 151.285V6" stroke="#1A1A1A" stroke-width="1.8"/>
+  <path d="M716.5 6V97L753 133.5V181.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M730 6V91.037L766 125.145V170" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M743 6V83.7778L779 114.974V156" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M756 6V78.0741L792 106.983V145" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M824 6V156.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M840 6V138" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M856 6V118" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M872 6V150" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1076.5 6V190L1135 248.5V307.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1092 6V182L1150.5 240.5V307.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1107.5 6V174L1166 232.5V307.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1123 6V166L1181.5 224.5V307.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M435 195.5L477.5 238" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M417 198.5L459.5 241" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M629.5 247.5H542.5L447 152H417.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M506.5 408.5L475 377H362L345.5 360.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M268 256.5L235.5 289H171.5L134.5 252H79" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M157.5 253H222" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M47 277V245L79.2984 211H221.516L245 237.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M29 285V239.794L67.1414 196H235.086L264 229.198" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M292.5 134.5L265.5 161.5H44.5L15.5 190.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M87.5 142H217" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M587.5 313.5V290.5L612 266H679L703.5 290.5V329" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M600.5 313.5V296L617.5 279H674L691 296V328.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M613.5 314V302L624 291.5H668L677.5 301V329" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 415H92.2609L140.826 463H182" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2.5 428H88.7493L136.112 476H174.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2.5 441H83.7493L131.112 489H152.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1418 288L1393.5 263.5V222.5L1418 198" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 303.5H1403.5L1357 257" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 329.5H1393.5L1331 267" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 316H1398L1344 262V209.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 342H1388L1319 273V210.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 364.5H1377L1293 280.5V208" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1307 279L1382.22 355H1442" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1211.5 156.5V252.5L1254.5 295.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1148.5 6V56.5L1165.5 73.5V88.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1163 6V50.0727L1179 64.9091V78" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1192 346L1263 417H1298.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 431.5H1349L1301.5 384H1280.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 419.5H1355L1307.5 372H1269.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 407.5C1440.4 407.5 1387 407.5 1360.5 407.5L1312 359H1257" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 394H1366.5L1318 345.5H1281.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1251.5 478.5H1320.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1227.5 432.5L1248.5 453.5H1337.5L1351.5 467.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 473.5H1371.5L1329.5 515.5H1259" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 486C1440.8 486 1397.83 486 1376.5 486L1334 528.5H1222.5V464.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M429.5 463.5H970V769.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M957.5 754.5V477H520.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M430 489H944.5V777.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M931.5 746.5V502H519.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M430 514.5H919V778" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M906 810.5V528H520" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M430 540.5H893V770.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M880 778.5V553H520" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M569.5 582H758.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M709 638H536L512.5 614.5H494.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M709.5 612.5H547L523.5 589H494" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M741 625H540.5L517 601.5H447" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M901 361H1141L1186.5 406.5V662L1219.5 695" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M807 374H1135.5L1174 412.5V667.5L1207 700.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M902.5 386.5H1130.5L1161.5 417.5V673L1192.5 704V729.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M807 399.5H1124.5L1148.5 423.5V679L1179.5 710V777" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M901.5 412H1119.5L1136 428.5V683L1169 716V766.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M410.5 412.5H258L209 461.5V515.5H116L73.5 473H2" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M487 426H262L222 466V528H111L68 485H2.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1089 466H1004.5V675.5L1088.5 759.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1076.5 729.5L1017.5 670.5V478.5H1066.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1076.5 711.5L1030 665V491.5H1088.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1066.5 504H1043V659.5L1074.5 691" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1106.5 708V662H1090L1063.5 635.5V566.5L1089 541" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1106.5 614V461L1085.5 440" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M356.5 473V528.5H391.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M314 477L335.5 498.5V567H384" stroke="#1A1A1A" stroke-width="2"/>
+  
+  <g class="circuit-lines-group">
+  <path d="M541.5 400L558.5 417H747.5L766 398.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M541.5 424L558.5 441H747.5L766 422.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1230 6V56.5L1254.5 81H1358L1388.5 50.5V6" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1242 6V48.42L1262.71 69H1350.21L1376 43.38V6" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1254 6V39.6667L1270.85 56H1342.03L1363 35.6667V6" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 313H279.189L332 259.35V185" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 329H284.109L345 267.489V140" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 342H294.801L358 275.867V220" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M0 358H298.833L374 283.382V188" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 399.5H94L141.5 447H163.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1429 6V177.5H1322.5L1268.5 123.5H1192" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1416 6V166H1329.34L1272.3 110.621H1162" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1404 6V153H1334.44L1279.09 98.1205H1194" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M988.5 4V285H787.5L711.5 361H580.5L516 296.5H479" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1017.5 6.5V315H803.5L715.5 394H576.5L516 332.5H479" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1005 0L1004 301H795.81L711.733 377L577.611 376L513.053 311.5H455" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M975.5 6V270.5H782.5L706.5 346.5H586L522 282.5H447" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1099.5 243L1090 252.5V296.5H1057V343" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M663 669.5H493.5L457.5 633.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M330 6V83H74" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M344 6V96H99" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M356 6V108H60" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M369 6V121H98" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M318 6V70H99" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M420.397 6V87.0174H606.805" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M410.204 6V100.696H588.602" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M401.466 6V113.322H617" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M391.998 6V127H589.328" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M429.136 6V73.3391H588.602" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M439 6V62H551" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M22.5 38H104.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M189 6V31.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M203 6V38" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M217 6V26" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M231 6V46" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M507 27H585L612.5 54.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M571.5 147L554.5 164V207.5L570 223" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1237 236.5H1261.5L1277.5 220.5V157.5L1261 141H1237.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1237 220H1251.52L1261 209.613V168.712L1251.22 158H1237.3" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M592.5 147L575.5 164V207.5L591 223" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M647 6V202.5L699.5 255H867L954.5 167.5V6" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M689 6V163.042L727.756 205H851.407L916 135.07V6" stroke="#1A1A1A" stroke-width="1.6"/>
+  <path d="M679 6V173.301L721.171 218H855.715L926 143.502V6" stroke="#1A1A1A" stroke-width="1.7"/>
+  <path d="M658 6V193.03L707 243H863.333L945 159.717V6" stroke="#1A1A1A" stroke-width="1.9"/>
+  <path d="M669 6V182.771L714.585 230H860.024L936 151.285V6" stroke="#1A1A1A" stroke-width="1.8"/>
+  <path d="M716.5 6V97L753 133.5V181.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M730 6V91.037L766 125.145V170" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M743 6V83.7778L779 114.974V156" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M756 6V78.0741L792 106.983V145" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M824 6V156.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M840 6V138" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M856 6V118" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M872 6V150" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1076.5 6V190L1135 248.5V307.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1092 6V182L1150.5 240.5V307.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1107.5 6V174L1166 232.5V307.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1123 6V166L1181.5 224.5V307.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M435 195.5L477.5 238" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M417 198.5L459.5 241" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M629.5 247.5H542.5L447 152H417.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M506.5 408.5L475 377H362L345.5 360.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M268 256.5L235.5 289H171.5L134.5 252H79" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M157.5 253H222" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M47 277V245L79.2984 211H221.516L245 237.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M29 285V239.794L67.1414 196H235.086L264 229.198" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M292.5 134.5L265.5 161.5H44.5L15.5 190.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M87.5 142H217" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M587.5 313.5V290.5L612 266H679L703.5 290.5V329" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M600.5 313.5V296L617.5 279H674L691 296V328.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M613.5 314V302L624 291.5H668L677.5 301V329" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2 415H92.2609L140.826 463H182" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2.5 428H88.7493L136.112 476H174.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M2.5 441H83.7493L131.112 489H152.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1418 288L1393.5 263.5V222.5L1418 198" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 303.5H1403.5L1357 257" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 329.5H1393.5L1331 267" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 316H1398L1344 262V209.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 342H1388L1319 273V210.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 364.5H1377L1293 280.5V208" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1307 279L1382.22 355H1442" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1211.5 156.5V252.5L1254.5 295.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1148.5 6V56.5L1165.5 73.5V88.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1163 6V50.0727L1179 64.9091V78" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1192 346L1263 417H1298.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 431.5H1349L1301.5 384H1280.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 419.5H1355L1307.5 372H1269.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 407.5C1440.4 407.5 1387 407.5 1360.5 407.5L1312 359H1257" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1441.5 394H1366.5L1318 345.5H1281.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1251.5 478.5H1320.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1227.5 432.5L1248.5 453.5H1337.5L1351.5 467.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 473.5H1371.5L1329.5 515.5H1259" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1442 486C1440.8 486 1397.83 486 1376.5 486L1334 528.5H1222.5V464.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M429.5 463.5H970V769.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M957.5 754.5V477H520.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M430 489H944.5V777.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M931.5 746.5V502H519.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M430 514.5H919V778" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M906 810.5V528H520" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M430 540.5H893V770.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M880 778.5V553H520" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M569.5 582H758.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M709 638H536L512.5 614.5H494.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M709.5 612.5H547L523.5 589H494" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M741 625H540.5L517 601.5H447" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M901 361H1141L1186.5 406.5V662L1219.5 695" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M807 374H1135.5L1174 412.5V667.5L1207 700.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M902.5 386.5H1130.5L1161.5 417.5V673L1192.5 704V729.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M807 399.5H1124.5L1148.5 423.5V679L1179.5 710V777" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M901.5 412H1119.5L1136 428.5V683L1169 716V766.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M410.5 412.5H258L209 461.5V515.5H116L73.5 473H2" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M487 426H262L222 466V528H111L68 485H2.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1089 466H1004.5V675.5L1088.5 759.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1076.5 729.5L1017.5 670.5V478.5H1066.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1076.5 711.5L1030 665V491.5H1088.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1066.5 504H1043V659.5L1074.5 691" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1106.5 708V662H1090L1063.5 635.5V566.5L1089 541" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M1106.5 614V461L1085.5 440" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M356.5 473V528.5H391.5" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M314 477L335.5 498.5V567H384" stroke="#1A1A1A" stroke-width="2"/>
+  </g>
+  <circle cx="104" cy="38" r="4" fill="#1A1A1A"/>
+  <circle cx="23" cy="38" r="4" fill="#1A1A1A"/>
+  <circle cx="99" cy="70" r="4" fill="#1A1A1A"/>
+  <circle cx="74" cy="83" r="4" fill="#1A1A1A"/>
+  <circle cx="60" cy="108" r="4" fill="#1A1A1A"/>
+  <circle cx="99" cy="96" r="4" fill="#1A1A1A"/>
+  <circle cx="98" cy="121" r="4" fill="#1A1A1A"/>
+  <circle cx="87" cy="142" r="4" fill="#1A1A1A"/>
+  <circle cx="16" cy="190" r="4" fill="#1A1A1A"/>
+  <circle cx="217" cy="142" r="4" fill="#1A1A1A"/>
+  <circle cx="189" cy="33" r="4" fill="#1A1A1A"/>
+  <circle cx="203" cy="39" r="4" fill="#1A1A1A"/>
+  <circle cx="217" cy="26" r="4" fill="#1A1A1A"/>
+  <circle cx="231" cy="46" r="4" fill="#1A1A1A"/>
+  <circle cx="292" cy="135" r="4" fill="#1A1A1A"/>
+  <circle cx="345" cy="140" r="4" fill="#1A1A1A"/>
+  <circle cx="332" cy="185" r="4" fill="#1A1A1A"/>
+  <circle cx="358" cy="220" r="4" fill="#1A1A1A"/>
+  <circle cx="374" cy="188" r="4" fill="#1A1A1A"/>
+  <circle cx="417" cy="199" r="4" fill="#1A1A1A"/>
+  <circle cx="417" cy="152" r="4" fill="#1A1A1A"/>
+  <circle cx="571" cy="147" r="4" fill="#1A1A1A"/>
+  <circle cx="592" cy="147" r="4" fill="#1A1A1A"/>
+  <circle cx="592" cy="223" r="4" fill="#1A1A1A"/>
+  <circle cx="753" cy="182" r="4" fill="#1A1A1A"/>
+  <circle cx="766" cy="170" r="4" fill="#1A1A1A"/>
+  <circle cx="779" cy="156" r="4" fill="#1A1A1A"/>
+  <circle cx="792" cy="145" r="4" fill="#1A1A1A"/>
+  <circle cx="824" cy="156" r="4" fill="#1A1A1A"/>
+  <circle cx="872" cy="150" r="4" fill="#1A1A1A"/>
+  <circle cx="840" cy="138" r="4" fill="#1A1A1A"/>
+  <circle cx="856" cy="118" r="4" fill="#1A1A1A"/>
+  <circle cx="1162" cy="110.5" r="4" fill="#1A1A1A"/>
+  <circle cx="1165.5" cy="88" r="4" fill="#1A1A1A"/>
+  <circle cx="1179" cy="78" r="4" fill="#1A1A1A"/>
+  <circle cx="1194" cy="98" r="4" fill="#1A1A1A"/>
+  <circle cx="1192" cy="123.5" r="4" fill="#1A1A1A"/>
+  <circle cx="1237" cy="141" r="4" fill="#1A1A1A"/>
+  <circle cx="1237" cy="158" r="4" fill="#1A1A1A"/>
+  <circle cx="1211.5" cy="156" r="4" fill="#1A1A1A"/>
+  <circle cx="1237" cy="220" r="4" fill="#1A1A1A"/>
+  <circle cx="1237" cy="236.5" r="4" fill="#1A1A1A"/>
+  <circle cx="1293" cy="208" r="4" fill="#1A1A1A"/>
+  <circle cx="1319" cy="211" r="4" fill="#1A1A1A"/>
+  <circle cx="1344" cy="210" r="4" fill="#1A1A1A"/>
+  <circle cx="1418" cy="198" r="4" fill="#1A1A1A"/>
+  <circle cx="1418" cy="288" r="4" fill="#1A1A1A"/>
+  <circle cx="1357" cy="257" r="4" fill="#1A1A1A"/>
+  <circle cx="1331" cy="267" r="4" fill="#1A1A1A"/>
+  <circle cx="1307" cy="279" r="4" fill="#1A1A1A"/>
+  <circle cx="1254" cy="296" r="4" fill="#1A1A1A"/>
+  <circle cx="1281" cy="345.5" r="4" fill="#1A1A1A"/>
+  <circle cx="1257" cy="359" r="4" fill="#1A1A1A"/>
+  <circle cx="1269" cy="372" r="4" fill="#1A1A1A"/>
+  <circle cx="1280" cy="384" r="4" fill="#1A1A1A"/>
+  <circle cx="1192" cy="346" r="4" fill="#1A1A1A"/>
+  <circle cx="1227" cy="433" r="4" fill="#1A1A1A"/>
+  <circle cx="1298" cy="417" r="4" fill="#1A1A1A"/>
+  <circle cx="1351" cy="467" r="4" fill="#1A1A1A"/>
+  <circle cx="1320" cy="479" r="4" fill="#1A1A1A"/>
+  <circle cx="1251" cy="479" r="4" fill="#1A1A1A"/>
+  <circle cx="1259" cy="516" r="4" fill="#1A1A1A"/>
+  <circle cx="1222" cy="465" r="4" fill="#1A1A1A"/>
+  <circle cx="1089" cy="466" r="4" fill="#1A1A1A"/>
+  <circle cx="1085" cy="440" r="4" fill="#1A1A1A"/>
+  <circle cx="1089" cy="492" r="4" fill="#1A1A1A"/>
+  <circle cx="1066" cy="479" r="4" fill="#1A1A1A"/>
+  <circle cx="1066" cy="504" r="4" fill="#1A1A1A"/>
+  <circle cx="1089" cy="541" r="4" fill="#1A1A1A"/>
+  <circle cx="1106.5" cy="613" r="4" fill="#1A1A1A"/>
+  <circle cx="629" cy="247" r="4" fill="#1A1A1A"/>
+  <circle cx="587.5" cy="313" r="4" fill="#1A1A1A"/>
+  <circle cx="600.5" cy="313" r="4" fill="#1A1A1A"/>
+  <circle cx="613.5" cy="313" r="4" fill="#1A1A1A"/>
+  <circle cx="677.5" cy="329" r="4" fill="#1A1A1A"/>
+  <circle cx="691" cy="329" r="4" fill="#1A1A1A"/>
+  <circle cx="703.5" cy="329" r="4" fill="#1A1A1A"/>
+  <circle cx="571" cy="223" r="4" fill="#1A1A1A"/>
+  <circle cx="589" cy="127" r="4" fill="#1A1A1A"/>
+  <circle cx="589" cy="101" r="4" fill="#1A1A1A"/>
+  <circle cx="589" cy="73" r="4" fill="#1A1A1A"/>
+  <circle cx="607" cy="87" r="4" fill="#1A1A1A"/>
+  <circle cx="617" cy="113" r="4" fill="#1A1A1A"/>
+  <circle cx="551" cy="62" r="4" fill="#1A1A1A"/>
+  <circle cx="507" cy="27" r="4" fill="#1A1A1A"/>
+  <circle cx="612" cy="54" r="4" fill="#1A1A1A"/>
+  <circle cx="435" cy="196" r="4" fill="#1A1A1A"/>
+  <circle cx="460" cy="241" r="4" fill="#1A1A1A"/>
+  <circle cx="447" cy="282.5" r="4" fill="#1A1A1A"/>
+  <circle cx="479" cy="296.5" r="4" fill="#1A1A1A"/>
+  <circle cx="479" cy="332.5" r="4" fill="#1A1A1A"/>
+  <circle cx="506" cy="409" r="4" fill="#1A1A1A"/>
+  <circle cx="541" cy="423" r="4" fill="#1A1A1A"/>
+  <circle cx="487" cy="426" r="4" fill="#1A1A1A"/>
+  <circle cx="411" cy="412" r="4" fill="#1A1A1A"/>
+  <circle cx="345" cy="361" r="4" fill="#1A1A1A"/>
+  <circle cx="430" cy="489" r="4" fill="#1A1A1A"/>
+  <circle cx="520" cy="501.5" r="4" fill="#1A1A1A"/>
+  <circle cx="430" cy="515" r="4" fill="#1A1A1A"/>
+  <circle cx="520" cy="527.5" r="4" fill="#1A1A1A"/>
+  <circle cx="430" cy="541" r="4" fill="#1A1A1A"/>
+  <circle cx="391" cy="528" r="4" fill="#1A1A1A"/>
+  <circle cx="356.5" cy="473" r="4" fill="#1A1A1A"/>
+  <circle cx="314" cy="477" r="4" fill="#1A1A1A"/>
+  <circle cx="152" cy="489" r="4" fill="#1A1A1A"/>
+  <circle cx="174" cy="476" r="4" fill="#1A1A1A"/>
+  <circle cx="182" cy="463" r="4" fill="#1A1A1A"/>
+  <circle cx="163" cy="447" r="4" fill="#1A1A1A"/>
+  <circle cx="384" cy="567" r="4" fill="#1A1A1A"/>
+  <circle cx="520" cy="553.5" r="4" fill="#1A1A1A"/>
+  <circle cx="494" cy="589" r="4" fill="#1A1A1A"/>
+  <circle cx="494" cy="615" r="4" fill="#1A1A1A"/>
+  <circle cx="447" cy="602" r="4" fill="#1A1A1A"/>
+  <circle cx="457" cy="633" r="4" fill="#1A1A1A"/>
+  <circle cx="663" cy="669" r="4" fill="#1A1A1A"/>
+  <circle cx="569" cy="582" r="4" fill="#1A1A1A"/>
+  <circle cx="758" cy="582" r="4" fill="#1A1A1A"/>
+  <circle cx="709" cy="612.5" r="4" fill="#1A1A1A"/>
+  <circle cx="741" cy="625" r="4" fill="#1A1A1A"/>
+  <circle cx="709" cy="638" r="4" fill="#1A1A1A"/>
+  <circle cx="430" cy="463.5" r="4" fill="#1A1A1A"/>
+  <circle cx="520" cy="476" r="4" fill="#1A1A1A"/>
+  <circle cx="766" cy="423" r="4" fill="#1A1A1A"/>
+  <circle cx="807.797" cy="399.5" r="4" fill="#1A1A1A"/>
+  <circle cx="807" cy="374" r="4" fill="#1A1A1A"/>
+  <circle cx="902" cy="386.5" r="4" fill="#1A1A1A"/>
+  <circle cx="902" cy="361" r="4" fill="#1A1A1A"/>
+  <circle cx="902" cy="412" r="4" fill="#1A1A1A"/>
+  <circle cx="1057" cy="343" r="4" fill="#1A1A1A"/>
+  <circle cx="1099" cy="243" r="4" fill="#1A1A1A"/>
+  <circle cx="1135" cy="308" r="4" fill="#1A1A1A"/>
+  <circle cx="1150.5" cy="308" r="4" fill="#1A1A1A"/>
+  <circle cx="1166" cy="308" r="4" fill="#1A1A1A"/>
+  <circle cx="1181.5" cy="308" r="4" fill="#1A1A1A"/>
+  <circle opacity="0.8" cx="541" cy="399" r="4" fill="#1A1A1A"/>
+  <circle cx="766" cy="399" r="4" fill="#1A1A1A"/>
+  <circle cx="455" cy="311.5" r="4" fill="#1A1A1A"/>
+  <circle cx="477" cy="238" r="4" fill="#1A1A1A"/>
+  <circle cx="268" cy="257" r="4" fill="#1A1A1A"/>
+  <circle cx="222" cy="253" r="4" fill="#1A1A1A"/>
+  <circle cx="245" cy="238" r="4" fill="#1A1A1A"/>
+  <circle cx="264" cy="229" r="4" fill="#1A1A1A"/>
+  <circle cx="157" cy="253" r="4" fill="#1A1A1A"/>
+  <circle cx="79" cy="252" r="4" fill="#1A1A1A"/>
+  <circle cx="47" cy="277" r="4" fill="#1A1A1A"/>
+  <circle cx="29" cy="285" r="4" fill="#1A1A1A"/>
+</svg></div><div class="cta_background-image-wrapper"></div><div class="cta_background-image-overlay"></div></div><div class="content"><div class="max-width-large"><div class="text-align-center"><div class="margin-bottom margin-small"><h2 class="text-color-primary">Get started today</h2></div><div class="cta-subtext-wrap"><p class="text-size-medium text-color-secondary">Experience the magic first. Join our VIP waitlist.</p></div></div></div><div class="margin-top margin-medium"><div class="flex-center is-horizontal"><a href="https://discord.com/channels/1298061949082533928" target="_blank" class="button is-icon w-inline-block"><div class="hide-mobile-portrait">Join our Discord</div><div class="hide-desktop">Discord</div><div class="button-icon w-embed"><svg width="20" height="20" style="margin-top: 0.125rem;" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.9308 1.4629C15.6561 0.877995 14.2892 0.447065 12.8599 0.200254C12.8339 0.195491 12.8079 0.207395 12.7945 0.231203C12.6187 0.543882 12.4239 0.951798 12.2876 1.27242C10.7503 1.04228 9.22099 1.04228 7.71527 1.27242C7.57887 0.944671 7.37707 0.543882 7.20048 0.231203C7.18707 0.208189 7.16107 0.196285 7.13504 0.200254C5.70659 0.446277 4.33963 0.877206 3.06411 1.4629C3.05307 1.46766 3.04361 1.4756 3.03732 1.48591C0.444493 5.35954 -0.265792 9.13797 0.0826501 12.8695C0.0842267 12.8878 0.0944749 12.9053 0.108665 12.9164C1.81934 14.1726 3.47642 14.9353 5.10273 15.4408C5.12876 15.4488 5.15634 15.4393 5.1729 15.4178C5.55761 14.8925 5.90054 14.3385 6.19456 13.756C6.21192 13.7219 6.19535 13.6814 6.15989 13.6679C5.61594 13.4616 5.098 13.21 4.59978 12.9243C4.56037 12.9013 4.55721 12.8449 4.59347 12.8179C4.69831 12.7394 4.80318 12.6576 4.9033 12.5751C4.92141 12.56 4.94665 12.5568 4.96794 12.5664C8.24107 14.0608 11.7846 14.0608 15.0191 12.5664C15.0404 12.5561 15.0657 12.5592 15.0846 12.5743C15.1847 12.6568 15.2896 12.7394 15.3952 12.8179C15.4314 12.8449 15.4291 12.9013 15.3897 12.9243C14.8914 13.2155 14.3735 13.4616 13.8288 13.6671C13.7933 13.6806 13.7775 13.7219 13.7949 13.756C14.0952 14.3377 14.4381 14.8917 14.8157 15.417C14.8315 15.4393 14.8599 15.4488 14.8859 15.4408C16.5201 14.9353 18.1772 14.1726 19.8879 12.9164C19.9028 12.9053 19.9123 12.8886 19.9139 12.8703C20.3309 8.55622 19.2154 4.80878 16.9568 1.4867C16.9513 1.4756 16.9419 1.46766 16.9308 1.4629ZM6.68335 10.5974C5.69792 10.5974 4.88594 9.6927 4.88594 8.58163C4.88594 7.47056 5.68217 6.56585 6.68335 6.56585C7.69239 6.56585 8.49651 7.4785 8.48073 8.58163C8.48073 9.6927 7.68451 10.5974 6.68335 10.5974ZM13.329 10.5974C12.3435 10.5974 11.5316 9.6927 11.5316 8.58163C11.5316 7.47056 12.3278 6.56585 13.329 6.56585C14.338 6.56585 15.1421 7.4785 15.1264 8.58163C15.1264 9.6927 14.338 10.5974 13.329 10.5974Z" fill="#070B14"/>
+</svg></div></a><div class="cta_telegram-btn hide-mobile-portrait"><div data-contact-btn="" class="glowing-wrapper glowing-wrapper-active"><div class="glowing-wrapper-animations"><div class="glowing-wrapper-glow"></div><div class="glowing-wrapper-mask-wrapper"><div class="glowing-wrapper-mask"></div></div></div><div class="glowing-wrapper_borders-mask"><div class="glowing-wrapper_borders"></div></div><a href="https://t.me/bitgptnetwork" target="_blank" class="btn is-nav w-inline-block"><div class="button-text">Join our Telegram</div><div class="button-icon w-embed"><svg aria-hidden="true" role="img" display="block" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19c-.14.75-.42 1-.68 1.03c-.58.05-1.02-.38-1.58-.75c-.88-.58-1.38-.94-2.23-1.5c-.99-.65-.35-1.01.22-1.59c.15-.15 2.71-2.48 2.76-2.69a.2.2 0 0 0-.05-.18c-.06-.05-.14-.03-.21-.02c-.09.02-1.49.95-4.22 2.79c-.4.27-.76.41-1.08.4c-.36-.01-1.04-.2-1.55-.37c-.63-.2-1.12-.31-1.08-.66c.02-.18.27-.36.74-.55c2.92-1.27 4.86-2.11 5.83-2.51c2.78-1.16 3.35-1.36 3.73-1.36c.08 0 .27.02.39.12c.1.08.13.19.14.27c-.01.06.01.24 0 .38"></path></svg></div></a></div></div><div class="cta_telegram-btn hide-desktop"><div data-contact-btn="" class="glowing-wrapper glowing-wrapper-active"><div class="glowing-wrapper-animations"><div class="glowing-wrapper-glow"></div><div class="glowing-wrapper-mask-wrapper"><div class="glowing-wrapper-mask"></div></div></div><div class="glowing-wrapper_borders-mask"><div class="glowing-wrapper_borders"></div></div><a href="https://t.me/bitgptnetwork" target="_blank" class="btn is-nav w-inline-block"><div class="button-text">Telegram</div><div class="button-icon w-embed"><svg aria-hidden="true" role="img" display="block" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19c-.14.75-.42 1-.68 1.03c-.58.05-1.02-.38-1.58-.75c-.88-.58-1.38-.94-2.23-1.5c-.99-.65-.35-1.01.22-1.59c.15-.15 2.71-2.48 2.76-2.69a.2.2 0 0 0-.05-.18c-.06-.05-.14-.03-.21-.02c-.09.02-1.49.95-4.22 2.79c-.4.27-.76.41-1.08.4c-.36-.01-1.04-.2-1.55-.37c-.63-.2-1.12-.31-1.08-.66c.02-.18.27-.36.74-.55c2.92-1.27 4.86-2.11 5.83-2.51c2.78-1.16 3.35-1.36 3.73-1.36c.08 0 .27.02.39.12c.1.08.13.19.14.27c-.01.06.01.24 0 .38"></path></svg></div></a></div></div></div></div></div></div><div class="footer_inner-wrap"><div class="w-layout-grid footer_top-wrapper"><a href="/" id="w-node-_5577e558-b787-a42b-d4a5-f128feebccd4-feebccb3" class="footer_logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/665c627c6494d968bc14602a_footer-logo.webp" loading="lazy" alt="BitGPT logo" class="footer_logo"/></a><div class="footer_link-list"><a href="/" class="footer_link">Agent</a><a href="/network" class="footer_link">Network</a></div><div id="w-node-_5577e558-b787-a42b-d4a5-f128feebcce1-feebccb3" class="w-layout-grid footer_social-list"><a href="https://github.com/bit-gpt/" target="_blank" class="footer_social-link w-inline-block"><div class="icon-embed-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill-rule="evenodd" clip-rule="evenodd" d="M12.026 2c-5.509 0-9.974 4.465-9.974 9.974c0 4.406 2.857 8.145 6.821 9.465c.499.09.679-.217.679-.481c0-.237-.008-.865-.011-1.696c-2.775.602-3.361-1.338-3.361-1.338c-.452-1.152-1.107-1.459-1.107-1.459c-.905-.619.069-.605.069-.605c1.002.07 1.527 1.028 1.527 1.028c.89 1.524 2.336 1.084 2.902.829c.091-.645.351-1.085.635-1.334c-2.214-.251-4.542-1.107-4.542-4.93c0-1.087.389-1.979 1.024-2.675c-.101-.253-.446-1.268.099-2.64c0 0 .837-.269 2.742 1.021a9.582 9.582 0 0 1 2.496-.336a9.554 9.554 0 0 1 2.496.336c1.906-1.291 2.742-1.021 2.742-1.021c.545 1.372.203 2.387.099 2.64c.64.696 1.024 1.587 1.024 2.675c0 3.833-2.33 4.675-4.552 4.922c.355.308.675.916.675 1.846c0 1.334-.012 2.41-.012 2.737c0 .267.178.577.687.479C19.146 20.115 22 16.379 22 11.974C22 6.465 17.535 2 12.026 2z" fill="currentColor"></path></svg></div></a><a href="https://x.com/BitGPTnetwork" target="_blank" class="footer_social-link w-inline-block"><div class="icon-embed-xsmall w-embed"><svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.1761 4H19.9362L13.9061 10.7774L21 20H15.4456L11.0951 14.4066L6.11723 20H3.35544L9.80517 12.7508L3 4H8.69545L12.6279 9.11262L17.1761 4ZM16.2073 18.3754H17.7368L7.86441 5.53928H6.2232L16.2073 18.3754Z" fill="CurrentColor"/>
+</svg></div></a><a id="w-node-f6c7267d-50c8-55b4-9246-d079a2437905-feebccb3" href="https://discord.com/channels/1298061949082533928" target="_blank" class="footer_social-link w-inline-block"><div class="icon-embed-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--ic" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M19.27 5.33C17.94 4.71 16.5 4.26 15 4a.1.1 0 0 0-.07.03c-.18.33-.39.76-.53 1.09a16.1 16.1 0 0 0-4.8 0c-.14-.34-.35-.76-.54-1.09c-.01-.02-.04-.03-.07-.03c-1.5.26-2.93.71-4.27 1.33c-.01 0-.02.01-.03.02c-2.72 4.07-3.47 8.03-3.1 11.95c0 .02.01.04.03.05c1.8 1.32 3.53 2.12 5.24 2.65c.03.01.06 0 .07-.02c.4-.55.76-1.13 1.07-1.74c.02-.04 0-.08-.04-.09c-.57-.22-1.11-.48-1.64-.78c-.04-.02-.04-.08-.01-.11c.11-.08.22-.17.33-.25c.02-.02.05-.02.07-.01c3.44 1.57 7.15 1.57 10.55 0c.02-.01.05-.01.07.01c.11.09.22.17.33.26c.04.03.04.09-.01.11c-.52.31-1.07.56-1.64.78c-.04.01-.05.06-.04.09c.32.61.68 1.19 1.07 1.74c.03.01.06.02.09.01c1.72-.53 3.45-1.33 5.25-2.65c.02-.01.03-.03.03-.05c.44-4.53-.73-8.46-3.1-11.95c-.01-.01-.02-.02-.04-.02M8.52 14.91c-1.03 0-1.89-.95-1.89-2.12s.84-2.12 1.89-2.12c1.06 0 1.9.96 1.89 2.12c0 1.17-.84 2.12-1.89 2.12m6.97 0c-1.03 0-1.89-.95-1.89-2.12s.84-2.12 1.89-2.12c1.06 0 1.9.96 1.89 2.12c0 1.17-.83 2.12-1.89 2.12"></path></svg></div></a></div></div><div class="w-layout-grid footer_bottom-wrapper"><div class="w-embed w-script"><p class="footer_credit-text"><span id="current-year"></span> BitGPT. All right reserved.</p>
+<script language="javascript" type="text/javascript">
+const currentYear = new Date().getFullYear();
+const dateParagraph = document.querySelector('#current-year');
+dateParagraph.textContent = currentYear;
+</script></div><div class="footer_legal-wrap"><a href="/privacy-policy" aria-current="page" class="footer_legal-link w--current">Privacy policy</a></div></div><img src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/665f2e11e39fa00ece3462b3_Frame%202147223828.webp" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 96vw, (max-width: 991px) 94vw, 95vw" srcset="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/665f2e11e39fa00ece3462b3_Frame%202147223828-p-500.webp 500w, https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/665f2e11e39fa00ece3462b3_Frame%202147223828-p-800.webp 800w, https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/665f2e11e39fa00ece3462b3_Frame%202147223828-p-1080.webp 1080w, https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/665f2e11e39fa00ece3462b3_Frame%202147223828-p-1600.webp 1600w, https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/665f2e11e39fa00ece3462b3_Frame%202147223828-p-2000.webp 2000w, https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/665f2e11e39fa00ece3462b3_Frame%202147223828.webp 2588w" alt="BitGPT logo" class="footer_bottom-img"/></div></div></footer></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=663d3003f6d1e0033d9b22aa" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/663d3003f6d1e0033d9b22aa/js/webflow.0aab1c61d6d257ea230abad8151b4af0.js" type="text/javascript"></script><!--<script>
+  //Contact modal
+  const formSuccessWrap = document.querySelector(".success-message");
+
+  // Callback function to close modal after successfull submit
+  const mutationCallback = (mutationsList, observer) => {
+    for (let mutation of mutationsList) {
+      if (mutation.type === "attributes" && mutation.attributeName === "style") {
+        // Check if the style of success has been changed
+        if (formSuccessWrap.style.getPropertyValue("display") === "block") {
+          setTimeout(() => {
+            contactSaleModal.classList.remove("is-active");
+          }, 3000);
+          observer.disconnect();
+        }
+      }
+    }
+  };
+  const observer = new MutationObserver(mutationCallback);
+
+  // Options for the observer (which mutations to observe)
+  const observerOptions = {
+    attributes: true,
+    attributeOldValue: true,
+    attributeFilter: ["style"],
+  };
+
+
+  const contactSalesBtn = document.querySelectorAll("[data-contact-btn]");
+  const contactSaleModal = document.querySelector("#contact-modal");
+  const contactSaleClose = document.querySelector(
+    "#contact-modal .modal_close-btn"
+  );
+  contactSalesBtn.forEach(btn => {
+    btn.addEventListener("click", () => {
+      contactSaleModal.classList.add("is-active");
+      observer.observe(formSuccessWrap, observerOptions);
+    });
+  })
+  contactSaleClose.addEventListener("click", () => {
+    contactSaleModal.classList.remove("is-active");
+  });  
+
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      document.querySelectorAll('.modal').forEach((modal) => {
+        modal.classList.remove("is-active");
+      });
+    }
+  })
+  //End contact modal 
+</script>--></body></html>
